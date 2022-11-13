@@ -2,7 +2,7 @@
 Estudo de programação python.
 
 <p align="center">
-  <img src="">
+  <img src="python_Logo">
 </p>
 
 # Wagner Pompeo
